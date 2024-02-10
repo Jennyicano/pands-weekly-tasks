@@ -12,5 +12,5 @@ amount2 = int(amount2)
 # Divide by 100.0 or else it won't convert to float properly
 sum = (amount1 + amount2)/100.0
 
-print ("The sum of these is E", sum)
+print ("The sum of these is €", sum)
 
