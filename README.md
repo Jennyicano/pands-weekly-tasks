@@ -37,14 +37,15 @@ The references used for this task where from [Python Numbers](https://www.w3scho
 
 ### Weekly task 4
 
-This task () consist to create a program that will
+This task (collatz.py) consist to create a program that asks the user to input any positive integer and outputs the successive values of the following calculation by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. The program ends if the current value is one. 
 
-The references used for this task where from
+The references used for this task where from [Python While Loops](https://www.w3schools.com/python/python_while_loops.asp), [Python If ... Else](https://www.w3schools.com/python/python_conditions.asp), [GeeksforGeeks](https://www.geeksforgeeks.org/program-to-print-collatz-sequence/).
 
 ### Weekly task 5
-This task () consist to create a program that will
 
-The references used for this task where fromThis task () consist to create a program that will
+This task (weekday.py) consist to create a program that will outputs whether or not today is a weekday.
+
+The references used for this task where from [Python calendar](https://docs.python.org/3/library/calendar.html), [GeeksforGeeks](https://www.geeksforgeeks.org/weekday-function-of-datetime-date-class-in-python/)
 
 ### Weekly task 6
 

@@ -11,6 +11,7 @@ from datetime import datetime
 # datetime.today stores the today's date 
 # .weekday() will return an integer with the day of the week:
 # 0 = Mon, 1 = Tue, 2 = Wed, 3 = Thur, 4 = Fri, 5 = Sat, 6 = Sun
+
 if datetime.today().weekday() == 5 or datetime.today().weekday() == 6:
     print("It is the weekend, yay!")
 
