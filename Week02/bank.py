@@ -1,4 +1,5 @@
 # Week02 task
+
 # This program will ask the user for two money amounts (in cent)
 # The program will print out the sum of theses amounts with a euro sign 
 # and decimal point between the euro and cent of the amount. 

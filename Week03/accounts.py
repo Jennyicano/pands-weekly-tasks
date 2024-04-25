@@ -1,6 +1,7 @@
 # Week03 task
-# Author Jennifer Ibanez
 
+
+# Author Jennifer Ibanez
 
 amount1 = input ("Please enter a 10 digit account number: ")
 print(type(amount1))
