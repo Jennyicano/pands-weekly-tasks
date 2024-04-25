@@ -51,7 +51,7 @@ The references used for this task where from [Python calendar](https://docs.pyth
 
 This task (squareroot.py) consist to write a program that takes a positive floating-point number as input and outputs an approximation of its square root. 
 
-The references used for this task where from [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method#:~:text=Newton's%20method%20is%20a%20powerful,some%20difficulties%20with%20the%20method.), [Real Python](https://realpython.com/python-square-root-function/), [w3schools-Python math.sqrt](https://www.w3schools.com/python/ref_math_sqrt.asp)
+The references used for this task where from [w3school-Python Functions](https://www.w3schools.com/python/python_functions.asp), [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method#:~:text=Newton's%20method%20is%20a%20powerful,some%20difficulties%20with%20the%20method.), [Real Python](https://realpython.com/python-square-root-function/), [w3schools-Python math.sqrt](https://www.w3schools.com/python/ref_math_sqrt.asp).
 
 ### Weekly task 7
 
