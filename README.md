@@ -24,3 +24,21 @@ The tools that I needed to intall in my computer to complete the module tasks an
 This task constisted to create a program that displays Hello World! when it is run. Here I followed the instructions provided by the teacher in lecture. 
 
 ### Weekly task 2
+
+This task constisted to create a program that will ask the user for two money amounts (in cent). The program will print out the sum of theses amounts with a euro sign and decimal point between the euro and cent of the amount.
+
+The references used for this task where from [Python Numbers](https://www.w3schools.com/python/python_numbers.asp), [Python Operators](https://www.w3schools.com/python/python_operators.asp), [Real Python](https://realpython.com/convert-python-string-to-int/).
+
+### Weekly task 3
+
+
+### Weekly task 4
+
+
+### Weekly task 5
+
+
+### Weekly task 6
+
+
+### Weekly task 7
