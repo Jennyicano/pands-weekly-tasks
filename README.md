@@ -21,24 +21,39 @@ The tools that I needed to intall in my computer to complete the module tasks an
 
 ### Weekly task 1
 
-This task constisted to create a program that displays Hello World! when it is run. Here I followed the instructions provided by the teacher in lecture. 
+This task constist to create a program that displays Hello World! when it is run. Here I followed the instructions provided by the teacher in lecture. 
 
 ### Weekly task 2
 
-This task constisted to create a program that will ask the user for two money amounts (in cent). The program will print out the sum of theses amounts with a euro sign and decimal point between the euro and cent of the amount.
+This task (bank.py) constist to create a program that will ask the user for two money amounts (in cent). The program will print out the sum of theses amounts with a euro sign and decimal point between the euro and cent of the amount.
 
 The references used for this task where from [Python Numbers](https://www.w3schools.com/python/python_numbers.asp), [Python Operators](https://www.w3schools.com/python/python_operators.asp), [Real Python](https://realpython.com/convert-python-string-to-int/).
 
 ### Weekly task 3
 
+This task (accounts.py) consist to create a program that will read a 10 character account number and it'll output the account number with only the last 4 digits showing, the first 6 digits will be replaced with Xs. 
+
+The references used for this task where from [Python Numbers](https://www.w3schools.com/python/python_numbers.asp), [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp), [Tutorialspoint](https://www.tutorialspoint.com/python-program-to-concatenate-two-integer-values-into-one#:~:text=In%20this%20approach%2C%20we%20convert,using%20the%20int()%20function.)
 
 ### Weekly task 4
 
+This task () consist to create a program that will
+
+The references used for this task where from
 
 ### Weekly task 5
+This task () consist to create a program that will
 
+The references used for this task where fromThis task () consist to create a program that will
 
 ### Weekly task 6
 
+This task () consist to create a program that will
+
+The references used for this task where from
 
 ### Weekly task 7
+
+This task () consist to create a program that will
+
+The references used for this task where from

@@ -1,5 +1,8 @@
 # Week03 task
 
+# This program will read a 10 character account number and 
+# it'll output the account number with only the last 4 digits showing, 
+# the first 6 digits will be replaced with Xs.
 
 # Author Jennifer Ibanez
 
