@@ -27,5 +27,5 @@ def letternumber(filename, letter):
     text = file.read()
     return text.count(letter)
 
-print("The number of 'e' in the text is", letternumber('moby-dick.txt', 'e'))
+print("The number of e's in the text file is", letternumber('moby-dick.txt', 'e'))
 

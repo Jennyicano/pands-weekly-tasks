@@ -55,6 +55,6 @@ The references used for this task where from [w3school-Python Functions](https:/
 
 ### Weekly task 7
 
-This task () consist to create a program that will
+This task (es.py) consist to write a program that reads in a text file (moby-dick.txt) and outputs the number of e's it contains. The program should take the filename from an argument on the command line.
 
-The references used for this task where from
+The references used for this task where from [Python](https://docs.python.org/3/library/argparse.html), [Python-command line and enviroment](https://docs.python.org/3/using/cmdline.html), [w3schools-String count](https://www.w3schools.com/python/ref_string_count.asp)
