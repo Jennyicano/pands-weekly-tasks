@@ -27,19 +27,19 @@ This task constist to create a program that displays Hello World! when it is run
 
 This task (bank.py) constist to create a program that will ask the user for two money amounts (in cent). The program will print out the sum of theses amounts with a euro sign and decimal point between the euro and cent of the amount.
 
-The references used for this task where from [Python Numbers](https://www.w3schools.com/python/python_numbers.asp), [Python Operators](https://www.w3schools.com/python/python_operators.asp), [Real Python](https://realpython.com/convert-python-string-to-int/).
+The references used for this task where from [w3schools-Python Numbers](https://www.w3schools.com/python/python_numbers.asp), [w3schools-Python Operators](https://www.w3schools.com/python/python_operators.asp), [Real Python](https://realpython.com/convert-python-string-to-int/).
 
 ### Weekly task 3
 
 This task (accounts.py) consist to create a program that will read a 10 character account number and it'll output the account number with only the last 4 digits showing, the first 6 digits will be replaced with Xs. 
 
-The references used for this task where from [Python Numbers](https://www.w3schools.com/python/python_numbers.asp), [Python Data Types](https://www.w3schools.com/python/python_datatypes.asp), [Tutorialspoint](https://www.tutorialspoint.com/python-program-to-concatenate-two-integer-values-into-one#:~:text=In%20this%20approach%2C%20we%20convert,using%20the%20int()%20function.)
+The references used for this task where from [w3schools-Python Numbers](https://www.w3schools.com/python/python_numbers.asp), [w3schools-Python Data Types](https://www.w3schools.com/python/python_datatypes.asp), [Tutorialspoint](https://www.tutorialspoint.com/python-program-to-concatenate-two-integer-values-into-one#:~:text=In%20this%20approach%2C%20we%20convert,using%20the%20int()%20function.)
 
 ### Weekly task 4
 
 This task (collatz.py) consist to create a program that asks the user to input any positive integer and outputs the successive values of the following calculation by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. The program ends if the current value is one. 
 
-The references used for this task where from [Python While Loops](https://www.w3schools.com/python/python_while_loops.asp), [Python If ... Else](https://www.w3schools.com/python/python_conditions.asp), [GeeksforGeeks](https://www.geeksforgeeks.org/program-to-print-collatz-sequence/).
+The references used for this task where from [w3schools-loops](https://www.w3schools.com/python/python_while_loops.asp), [w3schools-conditions](https://www.w3schools.com/python/python_conditions.asp), [GeeksforGeeks](https://www.geeksforgeeks.org/program-to-print-collatz-sequence/).
 
 ### Weekly task 5
 
@@ -49,9 +49,9 @@ The references used for this task where from [Python calendar](https://docs.pyth
 
 ### Weekly task 6
 
-This task () consist to create a program that will
+This task (squareroot.py) consist to write a program that takes a positive floating-point number as input and outputs an approximation of its square root. 
 
-The references used for this task where from
+The references used for this task where from [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method#:~:text=Newton's%20method%20is%20a%20powerful,some%20difficulties%20with%20the%20method.), [Real Python](https://realpython.com/python-square-root-function/), [w3schools-Python math.sqrt](https://www.w3schools.com/python/ref_math_sqrt.asp)
 
 ### Weekly task 7
 
