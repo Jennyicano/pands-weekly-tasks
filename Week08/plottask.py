@@ -1,7 +1,8 @@
 # Week08 task
 
-# Write a program that reads in a text file and outputs the number of e's it contains.
-# The program should take the filename from an argument on the command line.
+# Write a program that displays a histogram of a normal distribution of a 1000 values 
+# with a mean of 5 and standard deviation of 2.
+# The program will also displays a plot of the function  h(x)=x3 in the range 0 to 10, on the one set of axes.
 # Author Jennifer Ibanez Cano
 
 import numpy as np
