@@ -1,31 +1,35 @@
+# Week07 task
+
 # Write a program that reads in a text file and outputs the number of e's it contains.
 # The program should take the filename from an argument on the command line.
 # Author Jennifer Ibanez Cano
 
-# The file is in the same folder as the program. 
+#!/usr/bin/python3.1
 
-filename= "moby-dick.txt"
-
-with open(filename, 'r') as f:
-    for data in f:
-        print(data.strip() )
-
-
-# The program gives an error: 
-# FileNotFoundError: [Errno 2] No such file or directory: 'moby-dick.txt'
-# As the file is in the same folder as the program it gives an error, 
-# so I moved the file outside of the folder Week07. 
-
-# For the command line arguments I'll need to import sys argv
-
+# import modules used here -- sys is a very standard one
 import sys
-filename = sys.argv[0]
 
-def letternumber(filename, letter):
-    file = open(filename, "r")
+# Gather the code in a main() function
+def main():
+   openfile(sys.argv[1])
+     
+# Command line args are in sys.argv[1], sys.argv[2] ..
+# sys.argv[0] is the script name itself and can be ignored
+
+# Error that can be happening: the filename cannot be found, wrong typing name, wrong filename
+
+def openfile(filename):
     # Here the program will read the file and then return the number of 'e' in the text.
-    text = file.read()
-    return text.count(letter)
-
-print("The number of e's in the text file is", letternumber('moby-dick.txt', 'e'))
-
+    try:
+        file = open(filename, "r")
+        text = file.read()
+        file.close()
+    except:
+       print("The file cannot be found")
+    else:
+      print("The number of e's in the text file is", text.count('e'))
+     
+# Standard boilerplate to call the main() function to begin
+# the program.
+if __name__ == '__main__':
+  main()
