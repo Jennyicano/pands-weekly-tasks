@@ -67,4 +67,4 @@ This task (es.py) consist to write a program  that displays:
     * a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2, 
     * and a plot of the function  h(x)=x3 in the range 0 to 10, on the one set of axes.
 
-The references used for this task where from [w3school Normal(Gaussian) Distribution](https://www.w3schools.com/python/numpy/numpy_random_normal.asp), [w3school Matplolib pyplot](https://www.w3schools.com/python/matplotlib_pyplot.asp), [w3school NumPy Random](https://www.w3schools.com/python/numpy/numpy_random.asp), also i did a research in Google to check different blogs where people 
+The references used for this task where from [w3school Normal(Gaussian) Distribution](https://www.w3schools.com/python/numpy/numpy_random_normal.asp), [w3school Matplolib pyplot](https://www.w3schools.com/python/matplotlib_pyplot.asp), [w3school NumPy Random](https://www.w3schools.com/python/numpy/numpy_random.asp), also I did a research in Google to check different blogs where people shared similar code. 
