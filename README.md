@@ -6,7 +6,9 @@
 
 ## Student of Higher Diploma in Science in data Analytics at the ATU Galway, 2024. 
 
-In this repository I uploaded the weekly task for the module Programming and scriptting.
+In this repository I uploaded the weekly tasks for the module Programming and Scriptting.
+
+## Get starting.
 
 The tools that I needed to intall in my computer to complete the module tasks and project were the following: 
 
@@ -58,3 +60,11 @@ The references used for this task where from [w3school-Python Functions](https:/
 This task (es.py) consist to write a program that reads in a text file (moby-dick.txt) and outputs the number of e's it contains. The program should take the filename from an argument on the command line.
 
 The references used for this task where from [Python](https://docs.python.org/3/library/argparse.html), [Python-command line and enviroment](https://docs.python.org/3/using/cmdline.html), [w3schools-String count](https://www.w3schools.com/python/ref_string_count.asp)
+
+### Weekly task 8
+
+This task (es.py) consist to write a program  that displays:
+    * a histogram of a normal distribution of a 1000 values with a mean of 5 and standard deviation of 2, 
+    * and a plot of the function  h(x)=x3 in the range 0 to 10, on the one set of axes.
+
+The references used for this task where from [w3school Normal(Gaussian) Distribution](https://www.w3schools.com/python/numpy/numpy_random_normal.asp), [w3school Matplolib pyplot](https://www.w3schools.com/python/matplotlib_pyplot.asp), [w3school NumPy Random](https://www.w3schools.com/python/numpy/numpy_random.asp), also i did a research in Google to check different blogs where people 

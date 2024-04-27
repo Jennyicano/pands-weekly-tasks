@@ -38,10 +38,14 @@ print(statistics.median(nd))
 
 import matplotlib.pyplot as plt
 
-#count, bins, ignored = plt.hist(nd, 300)
+#count, bins, ignored = plt.hist(nd, 1000)
 #plt.show()
 count, bins, ignored = plt.hist(nd)
+
+plt.title("Histogram", color="green")
 plt.show()
+
+    # We will need to close this plot to can see the next one. 
 
 # Second part:
 
@@ -58,5 +62,5 @@ y = h(x)
 
 plt.plot(x, y, label = r'$h(x) = x^3$')
 plt.legend(loc="upper left")
-plt.title('Function')
+plt.title('Function', color="green")
 plt.show()
