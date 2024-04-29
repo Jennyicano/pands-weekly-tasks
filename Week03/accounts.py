@@ -10,7 +10,8 @@ amount1 = input ("Please enter a 10 digit account number: ")
 print(type(amount1))
 
 res = str(amount1)
-print(type(res))
+# print(type(res))
+
 # we take only the four last digits
 # This will work for any lenght of account number, even if it-s shorter than 4
 res2 = res[-4:]
