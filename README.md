@@ -1,6 +1,6 @@
 # pands-weekly-tasks
 
-## Module Programming and Scripting, teacher Andrew Beatty
+## Module Programming and Scripting, teacher Andrew Beatty.
 
 ## Author Jennifer Ibanez Cano
 
